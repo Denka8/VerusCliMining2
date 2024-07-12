@@ -2,17 +2,17 @@
 	"pools":[
 	{
 		"name": "Zergpool",
-        	"url": "stratum+tcp://eu.luckpool.net:3960",
+        	"url": "stratum+tcp://verushash.eu.mine.zergpool.com:3300",
 		"timeout": 120
 	},
 	{
 		"name": "Zergpool2",
-        	"url": "stratum+tcp://eu.luckpool.net:3960",
+        	"url": "stratum+tcp://verushash.eu.mine.zergpool.com:3300",
 		"timeout": 120
 	},
 	{
 		"name": "Zergpool3",
-        	"url": "stratum+tcp://eu.luckpool.net:3960",
+        	"url": "stratum+tcp://verushash.eu.mine.zergpool.com:3300",
 		"timeout": 120
 	}
 	],
